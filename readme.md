@@ -14,7 +14,7 @@
 
 📫 How to reach me: aiazj97@gmail.com
 
-👨🏻‍💻 Visit my Portfolio <a href="http://juhayer-aiaz.netlify.app/" target="_blank" rel="noopener">Here</a>
+👨🏻‍💻 Visit my Portfolio <a href="http://juhayer-aiaz.netlify.app/" target="_blank">Here</a>
 
 <br/><br/>
 
