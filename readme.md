@@ -14,6 +14,8 @@
 
 📫 How to reach me: aiazj97@gmail.com
 
+👨🏻‍💻 Visit my Portfolio <a href="http://juhayer-aiaz.netlify.app/">Here</a>
+
 <br/><br/>
 
 #### :muscle: Things I am challenging myself with:
