@@ -1,12 +1,11 @@
-<a href="https://www.linkedin.com/in/juhayer-ayaz/" target="_blank" rel="noopener"><p align="center"> <img src="https://i.ibb.co/YPRthPM/p8hxYszM.gif" alt="" /> </a>
+<a href="https://www.linkedin.com/in/juhayer-aiaz/" target="_blank" rel="noopener"><img src="https://i.ibb.co/YPRthPM/p8hxYszM.gif" alt="" /> </a>
 
 <h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm Juhayer Aiaz</h1>
 
 <h3 align="center">MERN stack Developer</h3>
 <br />
-<br />
 
-[![Github](https://img.shields.io/github/followers/juhayeraiaz?label=Follow&style=social)](https://github.com/juhayeraiaz)&nbsp;![Profile views](https://gpvc.arturio.dev/juhayeraiaz)
+[![Github](https://img.shields.io/github/followers/juhayeraiaz?label=Follow&style=social)](https://github.com/juhayeraiaz)[Profile views](https://gpvc.arturio.dev/juhayeraiaz)
 
 🌱 I’m currently Looking for a full time job
 
