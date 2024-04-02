@@ -1,12 +1,12 @@
 <a href="https://www.linkedin.com/in/juhayer-ayaz/" target="_blank" rel="noopener"><p align="center"> <img src="https://i.ibb.co/YPRthPM/p8hxYszM.gif" alt="" /> </a>
 
-<h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm Juhayer Ayaz</h1>
+<h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm Juhayer Aiaz</h1>
 
-<h3 align="center">Web Developer</h3>
+<h3 align="center">MERN stack Developer</h3>
 <br />
 <br />
 
-[![Github](https://img.shields.io/github/followers/juhayerayaz?label=Follow&style=social)](https://github.com/juhayerayaz)&nbsp;![Profile views](https://gpvc.arturio.dev/juhayerayaz)
+[![Github](https://img.shields.io/github/followers/juhayeraiaz?label=Follow&style=social)](https://github.com/juhayeraiaz)&nbsp;![Profile views](https://gpvc.arturio.dev/juhayeraiaz)
 
 🌱 I’m currently Looking for a full time job
 
@@ -49,11 +49,11 @@
    <table>
    <h1 align="center">Github Stats</h1>
        <tr>
-       <td><img alt="juhayerayaz :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=juhayerayaz&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="juhayerayaz :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhayerayaz&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+       <td><img alt="juhayeraiaz :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=juhayeraiaz&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="juhayeraiaz :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhayeraiaz&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
      <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=juhayerayaz&theme=blue-green&hide_border=true"></td>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=juhayeraiaz&theme=blue-green&hide_border=true"></td>
      </tr>
    </table>
 </p>
