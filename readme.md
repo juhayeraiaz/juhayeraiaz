@@ -5,7 +5,7 @@
 <h3 align="center">MERN stack Developer</h3>
 <br />
 
-[![Github](https://img.shields.io/github/followers/juhayeraiaz?label=Follow&style=social)](https://github.com/juhayeraiaz)[Profile views](https://gpvc.arturio.dev/juhayeraiaz)
+[![Github](https://img.shields.io/github/followers/juhayeraiaz?label=Follow&style=social)](https://github.com/juhayeraiaz)<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhayeraiaz&label=Profile%20views&color=0e75b6&style=flat" alt="juhayeraiaz" /> </p>
 
 🌱 I’m currently Looking for a full time job
 
